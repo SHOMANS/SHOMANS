@@ -22,6 +22,6 @@ I'm SHOMAN, web front-end developer
 
 ```html
 
-<h1 style="color: #123"> I've worked on many projects of React.js and front-end development
+<h1 style="color: #123"> I've worked on many projects of React.js and front-end development</h1>
   
   ```
