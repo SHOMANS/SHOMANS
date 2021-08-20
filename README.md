@@ -17,20 +17,21 @@ I've worked on many projects of React.js and front-end development
 - Responsive Web Design with all devices 📱💻🖥️
 ```
 
-My Services: 
+## My Services: 
 ```
 ☆ I will make your front end development 
 ☆ I will make your landing page
 ☆ I will make your website
-☆ I will transfare your design to a website
+☆ I will transfer your design to a website
+☆ I will make you a UI design on Adobe XD or Figma
 and more ...
 ```
 
 ## My Skills 🤔 :
 ```
-➡ Front-End           👉 Html/Html5, CSS,CSS3, javascript/ES6 (DOM+BOM+OOP)
-➡ Modules & librareis 👉 Styled component, bootstrap, ant.design, material ui, axios
-➡ Skills              👉 git/github, ajax, json, jsx, Sass/Scss
+➡ Front-End           👉 Html/Html5, CSS,CSS3, JavaScript/ES6 (DOM+BOM+OOP)
+➡ Modules & libraries 👉 Styled component, bootstrap, ant.design, material UI, Axios
+➡ Skills              👉 git/GitHub, Ajax, JSON, JSX, SASS/SCSS
 ➡ Frame Works         👉 React.js
 ```
 
