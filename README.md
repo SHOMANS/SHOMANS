@@ -38,16 +38,16 @@ and more ...
 Contact me on 💬 :
 
 
-<a href="https://www.facebook.com/MSHOMANMUSIC"><img src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="facebook" width="30" target="_blank"></a>
-<a href="https://twitter.com/Shomanmusic"><img src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="Twitter" width="30" target="_blank"></a>
-<a href="https://www.instagram.com/shomanmusic/"><img src="https://image.flaticon.com/icons/png/512/1409/1409946.png" alt="Instagram" width="30" target="_blank"></a>
-<a href="https://www.linkedin.com/in/shomans/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30" target="_blank"></a>
-<a href="https://wa.me/+970567677078"><img src="https://image.flaticon.com/icons/png/512/1384/1384055.png" alt="Whatsapp" width="30" target="_blank"></a>
-<a href="https://t.me/shomanmusic"><img src="https://image.flaticon.com/icons/png/512/2111/2111646.png" alt="telegram" width="30" target="_blank"></a>
-<a href="mailto://mohammedshoman9@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="gmail" width="30" target="_blank"></a>
-<a href="https://join.skype.com/invite/LWQfaLLVhESa"><img src="https://image.flaticon.com/icons/png/512/1384/1384058.png" alt="skype" width="30" target="_blank"></a>
-<a href="https://discord.gg/SHOMAN#6130"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" alt="discord" width="30" target="_blank"></a>
-<a href="https://www.youtube.com/channel/UCYTPS0bu4zUNABJ51ycuQnw"><img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube" width="30" target="_blank"></a>
+<a href="https://www.facebook.com/MSHOMANMUSIC" target="_blank"><img src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="facebook" width="30"></a>
+<a href="https://twitter.com/Shomanmusic" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/shomanmusic/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1409/1409946.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/shomans/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30"></a>
+<a href="https://wa.me/+970567677078" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384055.png" alt="Whatsapp" width="30"></a>
+<a href="https://t.me/shomanmusic" target="_blank"><img src="https://image.flaticon.com/icons/png/512/2111/2111646.png" alt="telegram" width="30"></a>
+<a href="mailto://mohammedshoman9@gmail.com" target="_blank"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="gmail" width="30"></a>
+<a href="https://join.skype.com/invite/LWQfaLLVhESa" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384058.png" alt="skype" width="30"></a>
+<a href="https://discord.gg/SHOMAN#6130" target="_blank"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" alt="discord" width="30"></a>
+<a href="https://www.youtube.com/channel/UCYTPS0bu4zUNABJ51ycuQnw" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube" width="30" "></a>
 
 
 ### Thank You!
