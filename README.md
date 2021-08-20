@@ -37,14 +37,6 @@ and more ...
 Contact me on 💬 :
 
 
-###### [facebook](https://www.facebook.com/MSHOMANMUSIC) 
-###### [Twitter](https://twitter.com/Shomanmusic)
-###### [Instagram](https://www.instagram.com/shomanmusic/)
-###### [LinkedIn](https://www.linkedin.com/in/shomans/)
-###### [Whatsapp](https://wa.me/+970567677078)
-
-
-
 <a href="https://www.facebook.com/MSHOMANMUSIC"><img src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="facebook" width="30"></a>
 <a href="https://twitter.com/Shomanmusic"><img src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/shomanmusic/"><img src="https://image.flaticon.com/icons/png/512/1409/1409946.png" alt="Instagram" width="30"></a>
