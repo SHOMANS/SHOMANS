@@ -47,7 +47,7 @@ Contact me on 💬 :
 <a href="mailto://mohammedshoman9@gmail.com" target="_blank"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="gmail" width="30"></a>
 <a href="https://join.skype.com/invite/LWQfaLLVhESa" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384058.png" alt="skype" width="30"></a>
 <a href="https://discord.gg/SHOMAN#6130" target="_blank"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" alt="discord" width="30"></a>
-<a href="https://www.youtube.com/channel/UCYTPS0bu4zUNABJ51ycuQnw" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube" width="30" "></a>
+<a href="https://www.youtube.com/channel/UCYTPS0bu4zUNABJ51ycuQnw"><img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="youtube" width="30" ></a>
 
 
 ### Thank You!
