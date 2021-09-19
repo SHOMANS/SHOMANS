@@ -4,7 +4,7 @@
 I'm SHOMAN, web Full-Stack developer (MERN)
 
 ```
-I've worked on many projects of React.js and front-end development
+I've worked on many projects of React.js & Node.js 
 ```
 
 ## What will you find with me? 
