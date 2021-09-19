@@ -1,7 +1,7 @@
 
 # Welcome to my profile <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25">
 
-I'm SHOMAN, web front-end developer
+I'm SHOMAN, web Full-Stack developer (MERN)
 
 ```
 I've worked on many projects of React.js and front-end development
@@ -30,9 +30,10 @@ and more ...
 ## My Skills 🤔 :
 ```
 ➡ Front-End           👉 Html/Html5, CSS,CSS3, JavaScript/ES6 (DOM+BOM+OOP)
-➡ Modules & libraries 👉 Styled component, bootstrap, ant.design, material UI, Axios
+➡ Back-End            👉 Node.js with Epress & MoongoDB
+➡ Modules & libraries 👉 Styled component, bootstrap, ant.design, material UI, Axios, Redux
 ➡ Skills              👉 git/GitHub, Ajax, JSON, JSX, SASS/SCSS
-➡ Frame Works         👉 React.js
+➡ Frame Works         👉 React.js, Next.js
 ```
 
 Contact me on 💬 :
