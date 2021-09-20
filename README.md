@@ -19,9 +19,9 @@ I've worked on many projects of React.js & Node.js
 
 ## My Services: 
 ```
-☆ I will make your front end development 
+☆ I will make your front end & back end development 
 ☆ I will make your landing page
-☆ I will make your website
+☆ I will create your website
 ☆ I will transfer your design to a website
 ☆ I will make you a UI design on Adobe XD or Figma
 and more ...
