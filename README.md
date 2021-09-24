@@ -4,7 +4,7 @@
 I'm SHOMAN, web Full-Stack developer
 
 ```
-I've worked on many projects of React.js & Node.js 
+I've worked on many web applications and sites 
 ```
 
 ## What will you find with me? 
