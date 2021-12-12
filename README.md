@@ -10,7 +10,7 @@ I've worked on many web applications and sites
 ## What will you find with me? 
 
 ```
-- Clean code "High performance" 🧹
+- Clean code & High performance 🧹
 - Speed at work ⚡
 - creative ideas in code 💭
 - pixel perfect 👌
