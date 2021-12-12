@@ -29,10 +29,10 @@ and more ...
 
 ## My Skills 🤔 :
 ```
-➡ Front-End           👉 Html/Html5, CSS,CSS3, JavaScript/ES6 (DOM+BOM+OOP)
+➡ Front-End           👉 Html/Html5, CSS,CSS3, JavaScript/ES6 (DOM+BOM+OOP), TypeScript
 ➡ Back-End            👉 Node.js with Express & MoongoDB
-➡ Modules & libraries 👉 Styled component, bootstrap, ant.design, material UI, Axios, Redux
-➡ Skills              👉 git/GitHub, Ajax, JSON, JSX, SASS/SCSS
+➡ Modules & libraries 👉 Styled component, bootstrap, ant.design, material UI, Axios, Redux, Redux-thunk
+➡ Skills              👉 git/GitHub, Ajax, JSON, JSX, SASS/SCSS, Rest API
 ➡ Frame Works         👉 React.js, Next.js
 ```
 
