@@ -39,7 +39,7 @@ and more ...
 ➡ Back-End            👉 Node.js with Express & MoongoDB
 ➡ Modules & libraries 👉 Styled component, bootstrap, ant.design, material UI, Axios, Redux, Redux-thunk
 ➡ Skills              👉 git/GitHub, Ajax, JSON, JSX, SASS/SCSS, Rest API
-➡ Frame Works         👉 React.js, Next.js
+➡ FrameWorks         👉 React.js, Next.js
 ```
 
 Contact me on 💬 :
