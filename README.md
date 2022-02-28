@@ -4,7 +4,9 @@
 I'm a software engineer and MERN Stack Developer specialist in ReactJs,
 
 ```
-I’m working on developing professional web apps with responsive designs, high-performance, reusable components, using the newest and most popular frameworks and technologies like React, Next, Redux, and more.
+I’m working on developing professional web apps with responsive designs, high-performance,
+reusable components, using the newest and most popular frameworks and technologies like React,
+Next, Redux, and more.
 
 Also, I have rested many APIs with node.js, Express.js, MoongoDB.
 
