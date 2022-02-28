@@ -1,16 +1,20 @@
 
 # Welcome to my profile <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25">
 
-I'm SHOMAN, web Full-Stack developer
+I'm a software engineer and MERN Stack Developer specialist in ReactJs,
 
 ```
-I've worked on many web applications and sites 
+I’m working on developing professional web apps with responsive designs, high-performance, reusable components, using the newest and most popular frameworks and technologies like React, Next, Redux, and more.
+
+Also, I have rested many APIs with node.js, Express.js, MoongoDB.
+
+I have built many React.js, MERN stack apps from scratch, and clean code and readable code are my work
 ```
 
 ## What will you find with me? 
 
 ```
-- Clean code & High performance 🧹
+- Clean code 🧹
 - Speed at work ⚡
 - creative ideas in code 💭
 - pixel perfect 👌
