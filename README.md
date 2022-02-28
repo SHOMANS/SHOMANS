@@ -35,11 +35,11 @@ and more ...
 
 ## My Skills 🤔 :
 ```
-➡ Front-End           👉 Html/Html5, CSS,CSS3, JavaScript/ES6 (DOM+BOM+OOP), TypeScript
+➡ Front-End           👉 React.js, Html/Html5, CSS,CSS3, JavaScript/ES6 (DOM+BOM+OOP), TypeScript
 ➡ Back-End            👉 Node.js with Express & MoongoDB
 ➡ Modules & libraries 👉 Styled component, bootstrap, ant.design, material UI, Axios, Redux, Redux-thunk
 ➡ Skills              👉 git/GitHub, Ajax, JSON, JSX, SASS/SCSS, Rest API
-➡ FrameWorks         👉 React.js, Next.js
+➡ FrameWorks          👉 Next.js
 ```
 
 Contact me on 💬 :
