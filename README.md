@@ -45,7 +45,7 @@ and more ...
 Contact me on 💬 :
 
 
-<a href="https://www.linkedin.com/in/shomans/" target="_blank"><img src="[https://image.flaticon.com/icons/png/512/174/174857.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png)" alt="LinkedIn" width="30"></a>
+<a href="https://www.linkedin.com/in/shomans/" target="_blank">LinkedIn</a>
 
 
 
