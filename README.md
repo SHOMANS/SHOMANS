@@ -11,36 +11,15 @@ Next, Redux, and more.
 
 Also, I have rested many APIs with node.js, Express.js, MoongoDB.
 
-I have built many React.js, MERN stack apps from scratch, and clean code and readable code are my work
+I have built many React.js, MERN stack apps from scratch, and clean code and readable code are my work.
 ```
 
-## What will you find with me? 
 
+## Skills 🤔 :
 ```
-- Clean code 🧹
-- Speed at work ⚡
-- creative ideas in code 💭
-- pixel perfect 👌
-- Responsive Web Design with all devices 📱💻🖥️
-```
+➡ Front-End           👉 JavaScript, TypeScript, ReactJs, NextJs
+➡ Back-End            👉 NodeJs, ExpressJs, MoongoDB, postgresql
 
-## My Services: 
-```
-☆ I will make your front end & back end development 
-☆ I will make your landing page
-☆ I will create your website
-☆ I will transfer your design to a website
-☆ I will make you a UI design on Adobe XD or Figma
-and more ...
-```
-
-## My Skills 🤔 :
-```
-➡ Front-End           👉 React.js, Html/Html5, CSS,CSS3, JavaScript/ES6 (DOM+BOM+OOP), TypeScript
-➡ Back-End            👉 Node.js with Express & MoongoDB
-➡ Modules & libraries 👉 Styled component, bootstrap, ant.design, material UI, Axios, Redux, Redux-thunk
-➡ Skills              👉 git/GitHub, Ajax, JSON, JSX, SASS/SCSS, Rest API
-➡ FrameWorks          👉 Next.js
 ```
 
 Contact me on 💬 :
