@@ -1,7 +1,8 @@
 
 # Welcome to my profile <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25">
 
-I'm a software engineer and MERN Stack Developer specialist in ReactJs,
+I'm a software engineer and Full-Stack Developer,
+
 
 ```
 I’m working on developing professional web apps with responsive designs, high-performance,
