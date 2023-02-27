@@ -5,13 +5,11 @@ I'm a software engineer and Full-Stack Developer,
 
 
 ```
-I’m working on developing professional web apps with responsive designs, high-performance,
-reusable components, using the newest and most popular frameworks and technologies like React,
-Next, Redux, and more.
+I'm a software engineer and Full Stack Developer,
 
-Also, I have rested many APIs with node.js, Express.js, MoongoDB.
+I’m working on developing professional web apps (Front and back end) with responsive designs, and high-performance, reusable components, using the newest and most popular frameworks and technologies like React, Next, Redux, node.js, Express.js, PostgreSQL, MongoDB, and more.
 
-I have built many React.js, MERN stack apps from scratch, and clean code and readable code are my work.
+I have built many Full stack apps from scratch, and clean code and readable code are my work
 ```
 
 
